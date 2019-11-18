@@ -1,4 +1,4 @@
-# Blockchaining-with-the-bros
+# Blockchain in Ruby, A Concept
 
 ## BlockChain
 
